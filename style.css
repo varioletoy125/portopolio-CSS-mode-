@@ -1,0 +1,103 @@
+img {
+    height: 200px;
+    border-color: black;
+    border: 5px solid;
+    border-radius: 12px;
+}
+
+* {
+    background-color: whitesmoke;
+}
+
+
+
+footer {
+    color: black;
+}
+
+
+
+.Motivational {
+    background-color: blue; /* Green background */
+    border: none;            /* No border */
+    color: white;            /* White text */
+    padding: 12px 24px;      /* Padding */
+    text-align: center;      /* Centered text */
+    text-decoration: none;   /* No underline */
+    display: inline-block;   /* Inline-block element */
+    font-size: 16px;         /* Font size */
+    margin: 4px 2px;         /* Some margin */
+    cursor: pointer;         /* Pointer/hand icon */
+    border-radius: 12px;     /* Rounded corners */
+}
+
+.hobi {
+    background-color: blue; /* Green background */
+    border: none;            /* No border */
+    color: white;            /* White text */
+    padding: 12px 24px;      /* Padding */
+    text-align: center;      /* Centered text */
+    text-decoration: none;   /* No underline */
+    display: inline-block;   /* Inline-block element */
+    font-size: 16px;         /* Font size */
+    margin: 4px 2px;         /* Some margin */
+    cursor: pointer;         /* Pointer/hand icon */
+    border-radius: 12px;     /* Rounded corners */
+}
+
+.contact {
+    background-color: blue; /* Green background */
+    border: none;            /* No border */
+    color: white;            /* White text */
+    padding: 12px 24px;      /* Padding */
+    text-align: center;      /* Centered text */
+    text-decoration: none;   /* No underline */
+    display: inline-block;   /* Inline-block element */
+    font-size: 16px;         /* Font size */
+    margin: 4px 2px;         /* Some margin */
+    cursor: pointer;         /* Pointer/hand icon */
+    border-radius: 12px;     /* Rounded corners */
+}
+
+.css-color {
+    background-color: blue; /* Green background */
+    border: none;            /* No border */
+    color: white;            /* White text */
+    padding: 12px 24px;      /* Padding */
+    text-align: center;      /* Centered text */
+    text-decoration: none;   /* No underline */
+    display: inline-block;   /* Inline-block element */
+    font-size: 16px;         /* Font size */
+    margin: 4px 2px;         /* Some margin */
+    cursor: pointer;         /* Pointer/hand icon */
+    border-radius: 12px;     /* Rounded corners */
+}
+
+.font-propertis {
+    background-color: blue; /* Green background */
+    border: none;            /* No border */
+    color: white;            /* White text */
+    padding: 12px 24px;      /* Padding */
+    text-align: center;      /* Centered text */
+    text-decoration: none;   /* No underline */
+    display: inline-block;   /* Inline-block element */
+    font-size: 16px;         /* Font size */
+    margin: 4px 2px;         /* Some margin */
+    cursor: pointer;         /* Pointer/hand icon */
+    border-radius: 12px;     /* Rounded corners */
+}
+
+.box-model {
+    background-color: blue; /* Green background */
+    border: none;            /* No border */
+    color: white;            /* White text */
+    padding: 12px 24px;      /* Padding */
+    text-align: center;      /* Centered text */
+    text-decoration: none;   /* No underline */
+    display: inline-block;   /* Inline-block element */
+    font-size: 16px;         /* Font size */
+    margin: 4px 2px;         /* Some margin */
+    cursor: pointer;         /* Pointer/hand icon */
+    border-radius: 12px;     /* Rounded corners */
+}
+
